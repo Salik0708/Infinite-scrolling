@@ -1,0 +1,19 @@
+.list {
+  display: flex;
+  justify-content: center;
+}
+
+.list ul {
+  list-style: none;
+  width: 50%;
+  margin: 0px;
+  margin: 0px 0px 15px 0px;
+  padding: 0px;
+}
+
+.list ul li {
+  background: orange;
+  height: 100px;
+  margin-top: 15px;
+  padding: 10px;
+}
